@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-core
+biopython
+langchain-chroma
+langchain-ollama
+langchain-community
+langchain-tavily
+langchainhub
